@@ -4,8 +4,7 @@
     "Category": "ArtisanGoods",
     "Edibility": 36,
     "EdibleIsDrink": true,
-    "EdibleBuffs":
-    {
+    "EdibleBuffs": {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -16,45 +15,42 @@
         "Speed": -2,
         "Defense": 0,
         "Attack": 0,
-        "Duration": 180,
+        "Duration": 180
     },
     "Price": 600,
     "IsColored": false,
     "Recipe": null,
-    "GiftTastes":
-    {
+    "GiftTastes": {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
         "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
-    "NameLocalization":
-    {
+    "NameLocalization": {
         "es": "Aguardiente de manzana",
         "ko": "애플 슈냅스",
         "de": "Apfel-Schnaps",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "Schnaps de pomme",
+        // "hu": "",
+        // "it": "",
         "ja": "アップルシュナップス",
         "pt": "Aguardente de Maçã",
         "ru": "Яблочный шнапс",
-         // "tr": "",
-        "zh": "苹果味烈酒",
+        // "tr": "",
+        "zh": "苹果味烈酒"
     },
-    "DescriptionLocalization":
-    {
+    "DescriptionLocalization": {
         "es": "Beber con moderación.",
         "ko": "절제해서 드세요.",
         "de": "Genieße ihn in Maßen",
-         // "fr": "",
-         // "hu": "",
-         // "it": "",
+        "fr": "A boire avec modération.",
+        // "hu": "",
+        // "it": "",
         "ja": "飲む時は適量を守ってほどほどに。",
-        "pt": "Beba com moderação!",        
+        "pt": "Beba com moderação!",
         "ru": "Пейте в меру.",
-         // "tr": "",
-        "zh": "适量饮酒。",
+        // "tr": "",
+        "zh": "适量饮酒。"
     }
 }

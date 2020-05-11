@@ -1,0 +1,17 @@
+{
+    "Dehydrator.Tea": "Feuilles de {inputName} séchées",
+    "Dehydrator.Fruit": "{inputName} sec",
+    "DryingRack.Flower": "{inputName} sèche",
+    "DryingRack.Herb": "{inputName} sèche",
+    "DryingRack.Vegetable": "{inputName} sec",
+    "DryingRack.Mushroom": "{inputName} séché(e)",
+    "Grinder.Herb": "{inputName} moulu(e)",
+    "Grinder.Vegetable": "{inputName} moulu(e)",
+    "Infuser.Schnapps": "{inputName} Schnaps",
+    "YogurtJar.Fruit": "Yaourt de {inputName}",
+    "WaxBarrel.Candle": " Bougie de{inputName}",
+    "Alembic.EssentialOil": "Huile essentielle de {inputName} ",
+    "Juice.Fruit": "Jus de {inputName}",
+    "SoapPress.Soap": "Savon de {inputName} maison",
+    "Smoker.Fish": "{inputName} fumé(e)"
+}
