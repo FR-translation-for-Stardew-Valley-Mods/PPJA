@@ -4,7 +4,8 @@
     "Category": "ArtisanGoods",
     "Edibility": 14,
     "EdibleIsDrink": true,
-    "EdibleBuffs": {
+    "EdibleBuffs":
+    {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -15,7 +16,7 @@
         "Speed": -2,
         "Defense": 0,
         "Attack": 0,
-        "Duration": 180
+        "Duration": 180,
     },
     "Price": 300,
     "IsColored": false,
@@ -24,37 +25,40 @@
     "PurchaseFrom": "Gus",
     "PurchasePrice": 120,
     "PurchaseRequirements": null,
-    "GiftTastes": {
+    "GiftTastes":
+    {
         "Love": ["Pam", "Shane"],
         "Like": ["Gus"],
         "Neutral": ["Marnie", "Clint", "George", "Sebastian", "Abigail", "Alex", "Caroline", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "Haley", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pierre", "Robin", "Sam", "Sandy", "Willy", "Wizard"],
         "Dislike": ["Penny"],
         "Hate": ["Vincent", "Jas"]
     },
-    "NameLocalization": {
+    "NameLocalization":
+    {
         "es": "Amaretto",
         "ko": "아마레토",
         "de": "Amaretto",
-        "fr": "Amaretto",
-        // "hu": "",
-        // "it": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
         "ja": "アマレット",
         "pt": "Amaretto",
         "ru": "Амаретто",
-        // "tr": "",
-        "zh": "苦杏酒"
+         // "tr": "",
+        "zh": "苦杏酒",
     },
-    "DescriptionLocalization": {
+    "DescriptionLocalization":
+    {
         "es": "Un destilado hecho de almendras. Beber con moderación.",
         "ko": "아몬드를 증류시켜 만든 술. 절제해서 드세요.",
         "de": "Ein Schnaps aus Mandeln. Genieße ihn in Maßen.",
-        "fr": "Un spiritieux fait à partir d'amandes. A boire avec modération.",
-        // "hu": "",
-        // "it": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
         "ja": "アーモンドから作られた蒸留酒。飲む時はほどほどに。",
         "pt": "Um destilado feito de amêndoas. Beba com moderação!",
         "ru": "Ликёр на основе миндаля. Пейте в меру.",
-        // "tr": "",
-        "zh": "起源意大利，一种由杏仁制成的蒸馏酒。适量饮酒。"
+         // "tr": "",
+        "zh": "起源意大利，一种由杏仁制成的蒸馏酒。适量饮酒。",
     }
 }

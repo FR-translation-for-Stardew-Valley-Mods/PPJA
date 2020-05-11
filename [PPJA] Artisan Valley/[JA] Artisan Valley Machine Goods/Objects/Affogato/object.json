@@ -4,7 +4,8 @@
     "Category": "ArtisanGoods",
     "Edibility": 40,
     "EdibleIsDrink": true,
-    "EdibleBuffs": {
+    "EdibleBuffs":
+    {
         "Farming": 0,
         "Fishing": 0,
         "Mining": 0,
@@ -15,36 +16,37 @@
         "Speed": 1,
         "Defense": 0,
         "Attack": 0,
-        "Duration": 180
+        "Duration": 180,
     },
     "Price": 600,
     "IsColored": false,
     "Recipe": null,
-    "NameLocalization": {
+    "NameLocalization":
+    {
         "es": "Affogato",
         "ko": "아포카토",
         "de": "Affogato",
-        "fr": "Affogato",
-        // "hu": "",
-        // "it": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
         "ja": "アフォガード",
-        "pt": "Affogato",
+        "pt": "Affogato",        
         "ru": "Аффогато",
-        // "tr": "",
-        "zh": "阿芙佳朵"
+         // "tr": "",
+        "zh": "阿芙佳朵",
     },
-    "DescriptionLocalization": {
+    "DescriptionLocalization":
+    {
         "es": "Café negro con una cucharada de helado de vainilla que se derrite por dentro.",
         "ko": "바닐라 아이스크림 한 숟갈이 녹아있는 블랙커피.",
         "de": "Kräftiger schwarzer Kaffee mit einer Kugel Vanilleeis, die darin schmilzt.",
-        "Description": "Un riche café noir avec une boule de glace à la vanille fondant à l'intérieur.",
-        "fr": "",
-        // "hu": "",
-        // "it": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
         "ja": "バニラアイスクリームを落し入れたリッチなコーヒー。",
         "pt": "Café preto com uma colher gelada de baunilha que derrete-se por dentro.",
         "ru": "Десерт из насыщенного черного кофе с шариком ванильного мороженого, тающий внутри.",
-        // "tr": "",
-        "zh": "浓郁的黑咖啡，往里混入一勺香草冰淇淋。"
+         // "tr": "",
+        "zh": "浓郁的黑咖啡，往里混入一勺香草冰淇淋。",
     }
 }
